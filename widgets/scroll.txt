@@ -1,0 +1,34 @@
+
+listview  ---------------------- Listview , Listview.builder
+singlechildscrollview
+
+
+keyboardtype:textinputtype.number
+
+
+.toStringAsfixed(2)===only 2 decimal points
+
+
+showModalBottomSheet
+
+TextEditingController
+
+theme.of(context).primaryColor
+
+
+ThemeData(
+{
+primaryswatch
+accent
+}
+
+
+image.asset(path)
+
+
+sizedbox
+
+fixedbox
+
+flexible
+----fit
